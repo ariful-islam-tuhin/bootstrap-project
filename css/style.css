@@ -1,0 +1,199 @@
+/* bootstrap design start here  */
+*{
+    box-sizing: border-box;
+}
+/*== navbar start ====*/
+.navbar{
+    padding: 10px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmA-DHTp6PNwZAqFOiS-1sr_sLO07HfLDcEw&usqp=CAU);
+  
+}
+
+
+.navbar-brand img{
+    width: 50px;
+    height: auto;
+}
+/*=== navbar ends === */
+
+/*  */
+
+
+/*  */
+
+
+.my-link-style:hover{
+text-decoration: underline;
+}
+.contuct-section{
+    background-color: tomato;
+}
+.feedback{
+    background-color: #0d0442;
+    padding: 7% 10%;
+}
+
+ hr{
+     width: 100px;       
+     margin: auto;     
+     border-bottom: 5px dashed white;
+ } 
+
+ h3{
+     color: rgb(2, 2, 2);
+     padding: 10px;
+     font-weight: bolder;
+     
+     } 
+
+.carousel-item{
+    padding: 5% 15%;
+    text-align: center;
+    font: italic;
+    color: white;
+}
+.feedback-img{
+    width: 120px;
+    height: auto;
+}
+.carousel-indicators{
+    bottom: -20px;
+
+}
+
+/* about me section starts here */
+.about-section{
+    background-color: #ff8474;
+}
+.about-section img{
+    width: 100px;
+    height: auto;
+   
+}
+
+.section-title h3{
+    margin-bottom: 0;
+    font-weight: bolder;
+    color: black;
+
+}
+/* about me section ends here  */
+
+/* service area start */
+.service-area{
+    background-color: #fffefe;    
+    padding: 30px;  
+}
+/* service area ends here  */
+
+/* education section starts here  */
+.education-section{
+    background-color:#000000;
+    padding:2px;
+}
+/* education section ends here  */
+
+/* tutorial section starts here */
+.font-weight-bolder{
+    color: white;
+}
+.card{
+    box-sizing: border-box;
+}
+.card img{
+    width: 230px;
+    height: 150px;
+    margin: auto;
+}
+
+/* tutorial section ends here*/
+/* coustomer reviw start here  */
+
+.coustomer-reviw{
+    background-color: #c4c3c3;
+    padding: 33px;
+}
+.coustomer-reviw h2{
+    color: black;
+}
+.blockquote{
+    border: 1px solid rgba(34, 31, 31, 0.486);
+}
+/* coustomer reviw end here  */
+/* ----------------- */
+.contuct-section{
+    background-color:#583d75;
+}
+/* --------------------- */
+/* ============================================== */
+.other-section{
+    background-color: rgb(131, 131, 131);
+    padding:50px;
+}
+/* ============================================== */
+
+/* media section starts here  */
+.title h3, h5 {
+    color: rgb(165, 164, 164);
+}
+.media-body p{
+    color: rgb(160, 158, 158);
+}
+.media-section{
+    background-color: #1b1717;
+}
+/* media section ends here  */
+
+
+
+
+/* about me section start here */
+#about-me{
+    padding: 4% 10%;
+    background-color: rgb(196, 196, 196);
+}
+#about-me p{
+   font-size: 1rem;
+  margin-bottom:0;
+  font-weight: light;
+}
+#about-me h5{
+  color: rgb(0, 0, 0);
+ }
+span{
+    font-weight: 900px !important;
+}
+
+/* about me section ends here */
+/* fotter starts here  */
+ .fotter{
+    padding: 1% 10%;
+    background: black;
+}
+.fotter a{
+    color: white;
+    padding: 0px 5px;
+}
+.fotter a:hover{
+    color: rgba(28, 245, 136, 0.787);
+}
+@media(max-width:768px){
+    .nav-link{
+        background: rgba(0, 0, 0, 0.486);
+        margin: 1px;
+        border-radius:5px;
+    }
+   
+    .nav-link:hover{
+        background:rgba(0, 0, 0, 0.781) ;       
+    }
+}
+/* fotter ends here  */
+/* bootstrap design end here  */
+
+
+
+
+
+
+
